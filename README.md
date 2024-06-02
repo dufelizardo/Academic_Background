@@ -1,5 +1,6 @@
 # Academic_Background
 My Courses and Academic Background:
+## ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dufelizardo.Academic_Background) ![image](https://img.shields.io/github/followers/dufelizardo?style=social) 
 
 ---
 
